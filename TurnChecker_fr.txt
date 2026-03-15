@@ -1,0 +1,11 @@
+Politique de confidentialité
+Dernière mise à jour : 15 mars 2026
+
+Turn Checker est une application iOS conçue pour aider les utilisateurs à planifier et gérer les tours dans des jeux de stratégie tels que les jeux 4X et les wargames.
+L’application permet aux utilisateurs de saisir et de gérer des informations liées à leurs parties (par exemple : noms des jeux, planning des tours, notes). Ces informations sont stockées localement sur l’appareil de l’utilisateur.
+
+Si l’utilisateur active iCloud, ces données peuvent être synchronisées entre ses appareils Apple via les services iCloud d’Apple.
+Le développeur de l’application ne collecte pas, n’accède pas et ne stocke aucune donnée utilisateur sur des serveurs externes.
+
+Pour toute question concernant cette politique de confidentialité, vous pouvez contacter :
+cdb.apps.quilt515@silomails.com
